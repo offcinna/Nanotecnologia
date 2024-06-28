@@ -1,0 +1,9 @@
+<frameset rows="20%,70%,*">
+	<frame src="arriba.html">
+	<frameset cols="20%,*">
+	<frame src="izq.html">
+	<frame src="central.html" name="noimporta">
+    </frameset>
+	<frame src="abajo.html">
+</frameset>
+
